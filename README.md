@@ -59,7 +59,7 @@ Siempre en constante aprendizaje de nuevas tecnologías y mejores prácticas de 
 
 ## 📫 Contacto
 
-- LinkedIn: [Julian Ureña Pineda](https://www.linkedin.com/in/julian-ureña-pineda-118b52166)
+- LinkedIn: [Julian Ureña Pineda](https://www.linkedin.com/in/julian-urue%C3%B1a-pineda-118b52166?)
 - Email: julian15uru@gmail.com
 
 ## 📈 Estadísticas de GitHub
