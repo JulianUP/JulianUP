@@ -41,7 +41,6 @@ Actualmente trabajo desarrollando aplicaciones empresariales utilizando las últ
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-6366F1?style=for-the-badge)
 
 ## 📊 Experiencia en
 
@@ -60,13 +59,14 @@ Siempre en constante aprendizaje de nuevas tecnologías y mejores prácticas de 
 
 ## 📫 Contacto
 
-- LinkedIn:(https://www.linkedin.com/in/julian-urue%C3%B1a-pineda-118b52166?))
+- LinkedIn: [Julian Ureña Pineda](https://www.linkedin.com/in/julian-ureña-pineda-118b52166)
 - Email: julian15uru@gmail.com
-
 
 ## 📈 Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianUP&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianUP&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianUP&layout=compact&theme=radical)
 
 ---
 
