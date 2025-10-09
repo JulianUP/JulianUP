@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Julian Urueña Pineda
+# ¡Hola! 👋 Soy Julian Ureña Pineda
 
 ## 💻 Desarrollador Full Stack
 
@@ -46,28 +46,54 @@ Actualmente trabajo desarrollando aplicaciones empresariales utilizando las últ
 
 - Desarrollo de APIs RESTful escalables y bien documentadas
 - Implementación de CI/CD pipelines con Azure DevOps
-- Desarrollo de tests unitarios y de integración
+- Desarrollo de tests unitarios y de integración con cobertura del 85%+
 - Containerización de aplicaciones con Docker
 - Despliegue en Azure Kubernetes Service (AKS)
 - Gestión de código con Git (branches, pull requests, code reviews)
 - Trabajo colaborativo con metodología Scrum
 - Automatización de procesos con n8n
 
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianUP&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianUP&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JulianUP&theme=radical&hide_border=true)
+
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=JulianUP&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+## 🏆 Logros de GitHub
+
+<div align="center">
+  
+![Trofeos](https://github-profile-trophy.vercel.app/?username=JulianUP&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+
+</div>
+
 ## 🌱 Actualmente aprendiendo
 
-Siempre en constante aprendizaje de nuevas tecnologías y mejores prácticas de desarrollo.
+Siempre en constante aprendizaje de nuevas tecnologías y mejores prácticas de desarrollo, explorando arquitecturas de microservicios y patrones de diseño avanzados.
 
 ## 📫 Contacto
 
-- LinkedIn: [Julian Urueña Pineda](https://www.linkedin.com/in/julian-urue%C3%B1a-pineda-118b52166?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: julian15uru@gmail.com
+<div align="center">
 
-## 📈 Estadísticas de GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-urue%C3%B1a-pineda-118b52166?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julian15uru@gmail.com)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianUP&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianUP&layout=compact&theme=radical)
+</div>
 
 ---
 
-💼 Abierto a colaboraciones y nuevas oportunidades
+<div align="center">
+  
+💼 **Abierto a colaboraciones y nuevas oportunidades**
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JulianUP.JulianUP)
+
+</div>
