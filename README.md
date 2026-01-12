@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Julian Ureña Pineda
+# ¡Hola! 👋 Soy Julian Urueña Pineda
 
 ## 💻 Desarrollador Full Stack
 
