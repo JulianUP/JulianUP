@@ -445,6 +445,7 @@ Servicio Nacional de Aprendizaje (SENA) | Colombia
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-urueña-pineda-118b52166)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julian15uru@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianUP)
+[![Download CV](https://img.shields.io/badge/📄_Download_my_CV-PDF-red?style=for-the-badge)](https://github.com/JulianUP/JulianUP/blob/main/CV_Julian_Uruena.pdf)
 
 </div>
 
