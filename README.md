@@ -71,11 +71,11 @@ Actualmente trabajo desarrollando aplicaciones empresariales utilizando las últ
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianUP&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianUP&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianUP&layout=compact&theme=radical&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianUP&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JulianUP&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JulianUP&theme=radical&hide_border=true)
 
 ![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=JulianUP&theme=react-dark&hide_border=true&area=true)
 
