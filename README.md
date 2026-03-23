@@ -2,7 +2,7 @@
 
 # Julian Urueña Pineda
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integrations+%26+MCP+Servers;Process+Automation+with+n8n;TypeScript+%7C+NestJS+%7C+React+%7C+Azure" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;AI+Integrations+%26+MCP+Servers;Process+Automation+with+n8n;TypeScript+%7C+NestJS+%7C+React+%7C+Azure" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -11,7 +11,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianUP)
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=JulianUP.JulianUP&left_color=purple&right_color=gray)](https://github.com/JulianUP)
 
-<img src="https://img.shields.io/badge/🟢_Open_to_Work-Remoto_o_Presencial-22c55e?style=for-the-badge" />
+<br/>
+
+![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Remoto_o_Presencial-22c55e?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experiencia-+4_años_en_desarrollo-6B4FBB?style=for-the-badge&logo=dev.to&logoColor=white)
 
 </div>
 
@@ -19,31 +22,43 @@
 
 ## Sobre mí
 
-Desarrollador Full Stack con experiencia real en entornos empresariales críticos a escala nacional. Construyo aplicaciones web robustas con **TypeScript, NestJS y React**, implementadas en la nube con **Azure, Docker y Kubernetes**, y respaldadas por testing con **+85% de cobertura**.
+Desarrollador Full Stack con más de 4 años de experiencia en entornos empresariales críticos a escala nacional. Diseño y construyo aplicaciones web robustas con **TypeScript, NestJS y React**, desplegadas en la nube con **Azure, Docker y Kubernetes**, con estándares de calidad que incluyen **+85% de cobertura en testing**.
 
-Lo que me diferencia: combino el desarrollo tradicional con capacidades emergentes en **IA aplicada** — diseño **servidores MCP (Model Context Protocol)**, integro **LLMs (Claude, OpenAI)** en flujos empresariales reales y automatizo procesos con **n8n**. Trabajo en la intersección donde el desarrollo de software se encuentra con la inteligencia artificial.
+Mi diferenciador real: opero en la intersección entre el desarrollo de software y la inteligencia artificial. Diseño **servidores MCP (Model Context Protocol)**, integro **LLMs (Claude, OpenAI)** en flujos empresariales reales y construyo automatizaciones inteligentes con **n8n** que eliminan carga operativa medible.
 
 <table>
 <tr>
-<td>
+<td valign="top" width="50%">
 
 **Actualmente construyendo**
-- 🤖 Servidores MCP para integrar IA con sistemas empresariales
-- ⚡ Automatizaciones inteligentes con n8n + LLMs
-- 🔧 Agentes de IA con Claude API y OpenAI
+- 🤖 Servidores MCP para integrar IA con APIs empresariales
+- ⚡ Automatizaciones con n8n + Claude API + OpenAI
+- 🔧 Agentes de IA para flujos de trabajo complejos
+- 🛠️ Herramientas de desarrollo AI-assisted con Claude Code
 
 </td>
-<td>
+<td valign="top" width="50%">
 
 **Perfil profesional**
-- 🏢 Sector energético / empresarial colombiano
-- 🧪 Testing: Jest, Jasmine, Testing Library
+- 🏢 Sector empresarial y energético colombiano
+- 🧪 Testing: Jest · Jasmine · Testing Library · Supertest
 - 🌎 Español nativo · Inglés profesional (B2)
-- 📍 Colombia · Remoto o presencial
+- 📍 Colombia · Disponible remoto o presencial
 
 </td>
 </tr>
 </table>
+
+---
+
+## Idiomas
+
+<div align="center">
+
+![Español](https://img.shields.io/badge/Español-Nativo-22c55e?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Professional_B2-3b82f6?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -64,23 +79,29 @@ Lo que me diferencia: combino el desarrollo tradicional con capacidades emergent
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Cloud
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### IA & Automatización
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Servers-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ### Testing & Calidad
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
@@ -89,6 +110,19 @@ Lo que me diferencia: combino el desarrollo tradicional con capacidades emergent
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+---
+
+## Proyectos Destacados
+
+<div align="center">
+
+[![mcp-server](https://github-readme-stats.vercel.app/api/pin/?username=JulianUP&repo=mcp-server&theme=radical&hide_border=true)](https://github.com/JulianUP)
+[![n8n-automations](https://github-readme-stats.vercel.app/api/pin/?username=JulianUP&repo=n8n-automations&theme=radical&hide_border=true)](https://github.com/JulianUP)
+
+</div>
+
+> **Nota:** Para mostrar tus repositorios reales, reemplaza los nombres `mcp-server` y `n8n-automations` con los nombres exactos de tus repos públicos.
 
 ---
 
@@ -114,7 +148,7 @@ Lo que me diferencia: combino el desarrollo tradicional con capacidades emergent
 - **Servidores MCP (Model Context Protocol):** conecto agentes de IA con sistemas internos, APIs y bases de datos empresariales
 - **Agentes de IA:** integración de LLMs (Claude, OpenAI) en flujos de trabajo reales con resultados medibles
 - **Automatización con n8n:** diseño de workflows complejos para eliminar carga operativa repetitiva
-- **AI-assisted development:** uso avanzado de IA como multiplicador de productividad en el ciclo de desarrollo
+- **AI-assisted development:** uso de Claude Code y Cursor como multiplicadores de productividad en el ciclo de desarrollo
 
 </details>
 
@@ -132,6 +166,20 @@ Lo que me diferencia: combino el desarrollo tradicional con capacidades emergent
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JulianUP&theme=radical&hide_border=true)
 
 ![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=JulianUP&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulianUP/JulianUP/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulianUP/JulianUP/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/JulianUP/JulianUP/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
