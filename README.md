@@ -2,11 +2,16 @@
 
 # Julian Urueña Pineda
 
-### Full Stack Developer · AI Integrations · Process Automation
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integrations+%26+MCP+Servers;Process+Automation+with+n8n;TypeScript+%7C+NestJS+%7C+React+%7C+Azure" alt="Typing SVG" /></a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-urue%C3%B1a-pineda-118b52166)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julian15uru@gmail.com)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JulianUP.JulianUP)](https://github.com/JulianUP)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianUP)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=JulianUP.JulianUP&left_color=purple&right_color=gray)](https://github.com/JulianUP)
+
+<img src="https://img.shields.io/badge/🟢_Open_to_Work-Remoto_o_Presencial-22c55e?style=for-the-badge" />
 
 </div>
 
@@ -14,16 +19,31 @@
 
 ## Sobre mí
 
-Desarrollador Full Stack con experiencia en entornos empresariales de alta demanda, construyendo aplicaciones web escalables con arquitecturas modernas. Combino sólida base técnica en el ecosistema **JavaScript/TypeScript** con capacidades emergentes en **integraciones de IA**, servidores **MCP (Model Context Protocol)** y **automatización inteligente de procesos**.
+Desarrollador Full Stack con experiencia real en entornos empresariales críticos a escala nacional. Construyo aplicaciones web robustas con **TypeScript, NestJS y React**, implementadas en la nube con **Azure, Docker y Kubernetes**, y respaldadas por testing con **+85% de cobertura**.
 
-Trabajo orientado a calidad: testing con 85%+ de cobertura, CI/CD, containerización y despliegue en la nube. Acostumbrado a metodologías ágiles y trabajo colaborativo en equipos multidisciplinarios.
+Lo que me diferencia: combino el desarrollo tradicional con capacidades emergentes en **IA aplicada** — diseño **servidores MCP (Model Context Protocol)**, integro **LLMs (Claude, OpenAI)** en flujos empresariales reales y automatizo procesos con **n8n**. Trabajo en la intersección donde el desarrollo de software se encuentra con la inteligencia artificial.
 
-```
-💼 Desarrollador Full Stack con experiencia en sector empresarial a escala nacional
-🤖 Building: MCP servers · Agentes de IA · Automatizaciones con n8n
-🚀 Stack principal: TypeScript · NestJS · React · Azure · Docker · Kubernetes
-📍 Colombia · Disponible remoto o presencial
-```
+<table>
+<tr>
+<td>
+
+**Actualmente construyendo**
+- 🤖 Servidores MCP para integrar IA con sistemas empresariales
+- ⚡ Automatizaciones inteligentes con n8n + LLMs
+- 🔧 Agentes de IA con Claude API y OpenAI
+
+</td>
+<td>
+
+**Perfil profesional**
+- 🏢 Sector energético / empresarial colombiano
+- 🧪 Testing: Jest, Jasmine, Testing Library
+- 🌎 Español nativo · Inglés profesional (B2)
+- 📍 Colombia · Remoto o presencial
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,7 +63,7 @@ Trabajo orientado a calidad: testing con 85%+ de cobertura, CI/CD, containerizac
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -54,6 +74,7 @@ Trabajo orientado a calidad: testing con 85%+ de cobertura, CI/CD, containerizac
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### IA & Automatización
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
@@ -71,21 +92,31 @@ Trabajo orientado a calidad: testing con 85%+ de cobertura, CI/CD, containerizac
 
 ---
 
-## Qué hago
+## Lo que hago
 
-### Desarrollo Full Stack Empresarial
-- Diseño e implementación de **APIs RESTful** con NestJS/Node.js, documentadas con Swagger
-- Aplicaciones frontend con **React, Angular y Vue.js** con alta cobertura de pruebas
-- Pipelines **CI/CD con Azure DevOps** y despliegue en AKS (Azure Kubernetes Service)
+<details>
+<summary><strong>⚙️ Desarrollo Full Stack Empresarial</strong></summary>
+<br>
+
+- Diseño e implementación de **APIs RESTful con NestJS/Node.js**, documentadas con Swagger
+- Aplicaciones frontend con **React, Angular y Vue.js** orientadas a usuario final en entornos críticos
+- Pipelines **CI/CD con Azure DevOps** y despliegue automatizado en AKS (Azure Kubernetes Service)
 - **Containerización** con Docker y orquestación con Kubernetes en entornos productivos
-- Gestión de bases de datos **Oracle, PostgreSQL y MySQL** en proyectos de misión crítica
-- Trabajo ágil con **Scrum**, code reviews y colaboración en equipos multidisciplinarios
+- Gestión y optimización de bases de datos **Oracle, PostgreSQL y MySQL**
+- Metodología **Scrum**, code reviews, pair programming y colaboración en equipos multidisciplinarios
 
-### IA & Automatización Inteligente
-- **Servidores MCP (Model Context Protocol):** conecto agentes de IA con sistemas, APIs y bases de datos empresariales
-- **Agentes de IA:** integración de LLMs (Claude, OpenAI) en flujos de trabajo reales
-- **Automatización con n8n:** diseño de workflows para eliminar tareas manuales repetitivas
-- **AI-assisted development:** uso avanzado de IA para acelerar ciclos de desarrollo y mejorar calidad
+</details>
+
+<details>
+<summary><strong>🤖 IA Aplicada & Automatización Inteligente</strong></summary>
+<br>
+
+- **Servidores MCP (Model Context Protocol):** conecto agentes de IA con sistemas internos, APIs y bases de datos empresariales
+- **Agentes de IA:** integración de LLMs (Claude, OpenAI) en flujos de trabajo reales con resultados medibles
+- **Automatización con n8n:** diseño de workflows complejos para eliminar carga operativa repetitiva
+- **AI-assisted development:** uso avanzado de IA como multiplicador de productividad en el ciclo de desarrollo
+
+</details>
 
 ---
 
@@ -93,9 +124,10 @@ Trabajo orientado a calidad: testing con 85%+ de cobertura, CI/CD, containerizac
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulianUP&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=JulianUP&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianUP&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165" />
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianUP&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JulianUP&theme=radical&hide_border=true)
 
@@ -109,7 +141,7 @@ Trabajo orientado a calidad: testing con 85%+ de cobertura, CI/CD, containerizac
 
 <div align="center">
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=JulianUP&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=JulianUP&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
 
 </div>
 
@@ -117,11 +149,11 @@ Trabajo orientado a calidad: testing con 85%+ de cobertura, CI/CD, containerizac
 
 <div align="center">
 
-¿Tienes un proyecto interesante o una oportunidad profesional? Hablemos.
+### ¿Tienes un proyecto o una oportunidad profesional?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-urue%C3%B1a-pineda-118b52166)
-[![Email](https://img.shields.io/badge/Email-Escribir-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julian15uru@gmail.com)
+Estoy disponible para roles de **Full Stack Developer** o **AI/Automation Engineer** — remoto o presencial en Colombia.
 
-**💼 Disponible para nuevas oportunidades · Remoto o presencial · Colombia**
+[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-urue%C3%B1a-pineda-118b52166)
+[![Email](https://img.shields.io/badge/Escribir_al_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julian15uru@gmail.com)
 
 </div>
